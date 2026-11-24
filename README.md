@@ -1,1 +1,0 @@
-# DocuMInd-AI-HelpDesk-With-RAG
